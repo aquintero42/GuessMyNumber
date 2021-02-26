@@ -1,0 +1,179 @@
+    h1 {
+        margin-left: 12%;
+    }
+    
+    h2 {
+        margin-top: 1rem;
+        font-style: normal;
+        font-size: 1.4rem;
+    }
+
+    h4 {
+        margin: 0;
+        margin-top: 1rem;
+        font-style: normal;
+    }
+
+    .label {
+        font-size: 1.5rem;
+    }
+
+    input[type=text], select {
+        padding: 12px 16px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        font-size: 1rem;
+    }
+
+    #formularioIndex {
+        width: 30%;
+        border: 4px solid black;
+        margin: 2%;
+        padding: 1rem;
+        padding-left: 6rem;
+        border-radius: 12px;
+        background-color: #f2f2f2;      
+    }
+
+    #formularioPrimeraModalidad {
+        width: 30%;
+        border: 4px solid black;
+        margin: 2%;
+        padding: 1rem;
+        padding-left: 2rem;
+        border-radius: 12px;
+        background-color: #f2f2f2;      
+    }
+
+    #formularioPrimeraModalidad form {
+        margin-left: 20%;
+    }
+ 
+    .titulos {
+        width: 100%;
+        text-align: center;
+    }
+
+    #elNumeroEs {
+        float: left;
+        margin-right: 1.5rem;
+    }
+
+    #buttonIndex {
+        background-color: #4d004d;
+        margin-left: 30%;
+    }
+
+    #numeroUsuario {
+        padding: 12px 16px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        font-size: 1rem;
+    }
+
+    #volverIndice {
+        margin-left: 26px;
+        background-color:#4d004d;
+    }
+
+    #confirmar {
+        background-color: #260750;
+    }
+
+    #formularioPrimeraModalidadRespuesta {
+        width: 30%;
+        border: 4px solid black;
+        margin: 2%;
+        padding: 1rem;
+        padding-left: 2rem;
+        border-radius: 12px;
+        background-color: #f2f2f2;
+        font-size: 1.2rem;  
+    }
+
+    #volverInicio {
+        background-color: #4d004d;
+    }
+
+    .button {
+        background-color: #4CAF50;
+        border: none;
+        color: white;
+        padding: 16px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+    }
+
+    #numeroIgual {
+        background-color: white; 
+        color: black; 
+        border: 2px solid #4CAF50;
+    }
+
+    #numeroIgual:hover {
+        background-color: #4CAF50;
+        color: white;
+    }
+
+    #numeroMasPequeño {
+        background-color: white; 
+        color: black; 
+        border: 2px solid #008CBA;
+    }
+
+    #numeroMasPequeño:hover {
+        background-color: #008CBA;
+        color: white;
+    }
+
+    #numeroMasGrande {
+        background-color: white; 
+        color: black; 
+        border: 2px solid #f44336;
+    }
+
+    #numeroMasGrande:hover {
+        background-color: #f44336;
+        color: white;
+    }
+
+    #buttonConfirm {
+        background-color: white;
+        color: black;
+        border: 2px solid #555555;
+    }
+
+    #buttonConfirm:hover {
+        background-color: #555555;
+        color: white;
+    }
+
+    #formularioSegundaModalidad {
+        width: 30%;
+        border: 4px solid black;
+        margin: 2%;
+        padding: 1rem;
+        padding-left: 2rem;
+        border-radius: 12px;
+        background-color: #f2f2f2;
+        font-size: 1.5rem;
+    }
+
+    #botonConfirmar {
+        background-color: #6a0020;
+    }
+
+    #volverAJugar {
+        background-color: #4d004d;
+    }
